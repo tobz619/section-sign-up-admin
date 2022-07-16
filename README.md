@@ -45,7 +45,7 @@ Rather than follow the book we will have one person for each OS (Linux, Mac, Win
 
 | Section | Presenter |
 | - | - |
-| 2.1 Functions | open |
+| 2.1 Functions | tobi |
 | 2.2 Functional programming | open |
 | 2.3  The value of functional programming in practice | open |
 | 2.3.1 Variables | open |
